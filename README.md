@@ -4,7 +4,7 @@
 How to define functions, call them, import modules and write them
 
 
-Click here to launch as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/c4s-functions/master)
+Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/c4s-functions/master)
 
 
 ## Coding for Scientists (in Python), QMUL 
